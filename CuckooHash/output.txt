@@ -1,0 +1,13 @@
+The total add time to HashMap is: 117
+The total 10-remove time to HashMap is:0
+The total 100-remove time to HashMap is:0
+
+The total add time to CuckooHash is: 46
+The total 10-remove time to CuckooHash is: 0
+The total 100-remove time to CuckooHash is: 0
+
+The key 78174 is not found.
+The key 72609 is found.
+The key 61719 is found.
+The key 35072 is not found.
+The key 85312 is not found.
